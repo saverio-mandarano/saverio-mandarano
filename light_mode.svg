@@ -5,62 +5,60 @@
 .key {fill: #953800;} .value {fill: #0550ae;} .cc {fill: #a5a5a5;} .grn {fill: #1a7f37;} .jav {fill: #953800;} text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="470px" fill="#ffffff" rx="15"/>
-<text x="25" y="41" fill="#24292f">
-<tspan x="25" y="41"></tspan>
-<tspan x="25" y="61"></tspan>
-<tspan x="25" y="81"></tspan>
-<tspan x="25" y="101">             ;i~+i,</tspan>
-<tspan x="25" y="121">            .icxrri</tspan>
-<tspan x="25" y="141">            ,i++rv==`</tspan>
-<tspan x="25" y="161">            ;+rrcz~"</tspan>
-<tspan x="25" y="181">             ;=ccr^</tspan>
-<tspan x="25" y="201">              'i~=xcxi;`</tspan>
-<tspan x="25" y="221">            ^xv~x8#####env+`</tspan>
-<tspan x="25" y="241">         '=n8#8xu##########u.</tspan>
-<tspan x="25" y="261">        .u##################~</tspan>
-<tspan x="25" y="281">        i##8################u</tspan>
-<tspan x="25" y="301">        z#88################%.</tspan>
-<tspan x="25" y="321">       ,e8#%%###############8`</tspan>
-<tspan x="25" y="341">       ^#8#%e################'</tspan>
-<tspan x="25" y="361">       =####%###############%.</tspan>
-<tspan x="25" y="381">       v####w###############z</tspan>
-<tspan x="25" y="401">       v###ex##############u;</tspan>
-<tspan x="25" y="421">       ,c%#8e###########%x^</tspan>
-<tspan x="25" y="441">         `^=xe8####8enr^`</tspan>
+<text x="25" y="40" fill="#24292f">
+<tspan x="25" y="40"></tspan>
+<tspan x="25" y="60"></tspan>
+<tspan x="25" y="80"></tspan>
+<tspan x="25" y="100">             ;i~+i,</tspan>
+<tspan x="25" y="120">            .icxrri</tspan>
+<tspan x="25" y="140">            ,i++rv==`</tspan>
+<tspan x="25" y="160">            ;+rrcz~"</tspan>
+<tspan x="25" y="180">             ;=ccr^</tspan>
+<tspan x="25" y="200">              'i~=xcxi;`</tspan>
+<tspan x="25" y="220">            ^xv~x8#####env+`</tspan>
+<tspan x="25" y="240">         '=n8#8xu##########u.</tspan>
+<tspan x="25" y="260">        .u##################~</tspan>
+<tspan x="25" y="280">        i##8################u</tspan>
+<tspan x="25" y="300">        z#88################%.</tspan>
+<tspan x="25" y="320">       ,e8#%%###############8`</tspan>
+<tspan x="25" y="340">       ^#8#%e################'</tspan>
+<tspan x="25" y="360">       =####%###############%.</tspan>
+<tspan x="25" y="380">       v####w###############z</tspan>
+<tspan x="25" y="400">       v###ex##############u;</tspan>
+<tspan x="25" y="420">       ,c%#8e###########%x^</tspan>
+<tspan x="25" y="440">         `^=xe8####8enr^`</tspan>
 </text>
-<text x="380" y="31" fill="#24292f">
-<tspan x="380" y="31">saverio@mandarano</tspan> ----------------------------------
-<tspan x="380" y="51" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Jr. Full-Stack Web Developer</tspan>
-<tspan x="380" y="71" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Boolean - Tech Academy</tspan>
-<tspan x="380" y="91" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Rome, Italy</tspan>
-<tspan x="380" y="111" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Backend Development</tspan>
-<tspan x="380" y="131" class="cc">. </tspan>
-<tspan x="380" y="151" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc">  </tspan><tspan class="value">Java, JavaScript</tspan>
-<tspan x="380" y="171" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">HTML, CSS, Bootstrap</tspan>
-<tspan x="380" y="191" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Spring, React</tspan>
-<tspan x="380" y="211" class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">MySQL, Hibernate, Maven, Git</tspan>
-<tspan x="380" y="231">----------------------------------------------------</tspan>
+<text x="380" y="40" fill="#24292f">
+<tspan x="380" y="40">saverio@mandarano</tspan> ----------------------------------------
+<tspan x="380" y="60" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Jr. Full-Stack Web Developer</tspan>
+<tspan x="380" y="80" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Boolean - Tech Academy</tspan>
+<tspan x="380" y="100" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Rome, Italy</tspan>
+<tspan x="380" y="120" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Backend Development</tspan>
+<tspan x="380" y="140" class="cc">. </tspan>
+<tspan x="380" y="160" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc">  </tspan><tspan class="value">Java, JavaScript</tspan>
+<tspan x="380" y="180" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">HTML, CSS, Bootstrap</tspan>
+<tspan x="380" y="200" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Spring, React</tspan>
+<tspan x="380" y="220" class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">MySQL, Hibernate, Maven, Git</tspan>
+<tspan x="380" y="240">----------------------------------------------------------</tspan>
 </text>
-<text x="395" y="291">
-<tspan x="395" y="291" class="cc">    ) )  )</tspan>
-<tspan x="395" y="311" class="cc">   ( (  (</tspan>
-<tspan x="395" y="331" class="jav">  .--------.</tspan>
-<tspan x="395" y="351" class="jav">  |        |__</tspan>
-<tspan x="395" y="371" class="jav">  |        |  |</tspan>
-<tspan x="395" y="391" class="jav">  |        |__|</tspan>
-<tspan x="395" y="411" class="jav">  |        |</tspan>
-<tspan x="395" y="431" class="jav">  '--------'</tspan>
-<tspan x="395" y="451" class="jav">   \______/</tspan>
+<circle cx="548" cy="372" r="90" fill="none" stroke="#953800" stroke-width="2.5"/>
+<text x="494" y="315" class="jav">
+<tspan x="494" y="315">    ) ) )  </tspan>
+<tspan x="494" y="335">    ( ( (  </tspan>
+<tspan x="494" y="355"> .------.__</tspan>
+<tspan x="494" y="375">|      |  |</tspan>
+<tspan x="494" y="395">|      |__|</tspan>
+<tspan x="494" y="415">  '------' </tspan>
+<tspan x="494" y="435">   \____/  </tspan>
 </text>
-<text x="610" y="291">
-<tspan x="610" y="291" class="grn">      .</tspan>
-<tspan x="610" y="311" class="grn">     /|\</tspan>
-<tspan x="610" y="331" class="grn">    / | \</tspan>
-<tspan x="610" y="351" class="grn">   /  |  \</tspan>
-<tspan x="610" y="371" class="grn">  (   |   )</tspan>
-<tspan x="610" y="391" class="grn">   \  |  /</tspan>
-<tspan x="610" y="411" class="grn">    \ | /</tspan>
-<tspan x="610" y="431" class="grn">     \|/</tspan>
-<tspan x="610" y="451" class="grn">      |</tspan>
+<circle cx="773" cy="372" r="90" fill="none" stroke="#1a7f37" stroke-width="2.5"/>
+<text x="739" y="315" class="grn">
+<tspan x="739" y="315">     . </tspan>
+<tspan x="739" y="335">   /|\ </tspan>
+<tspan x="739" y="355"> / | \ </tspan>
+<tspan x="739" y="375">(  |  )</tspan>
+<tspan x="739" y="395"> \ | / </tspan>
+<tspan x="739" y="415">   \|/ </tspan>
+<tspan x="739" y="435">    |  </tspan>
 </text>
 </svg>
