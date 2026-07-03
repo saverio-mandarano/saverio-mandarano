@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="985px" height="470px" font-size="16px">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
-.key {fill: #ffa657;} .value {fill: #a5d6ff;} .cc {fill: #616e7f;} .grn {fill: #3fb950;} .jav {fill: #ffa657;} text, tspan {white-space: pre;}
+.key {fill: #ffa657;} .value {fill: #a5d6ff;} .cc {fill: #616e7f;} text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="470px" fill="#161b22" rx="15"/>
 <text x="25" y="40" fill="#c9d1d9">
@@ -41,24 +41,18 @@
 <tspan x="380" y="220" class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">MySQL, Hibernate, Maven, Git</tspan>
 <tspan x="380" y="240">----------------------------------------------------------</tspan>
 </text>
-<circle cx="548" cy="372" r="90" fill="none" stroke="#ffa657" stroke-width="2.5"/>
-<text x="494" y="315" class="jav">
-<tspan x="494" y="315">    ) ) )  </tspan>
-<tspan x="494" y="335">    ( ( (  </tspan>
-<tspan x="494" y="355"> .------.__</tspan>
-<tspan x="494" y="375">|      |  |</tspan>
-<tspan x="494" y="395">|      |__|</tspan>
-<tspan x="494" y="415">  '------' </tspan>
-<tspan x="494" y="435">   \____/  </tspan>
-</text>
-<circle cx="773" cy="372" r="90" fill="none" stroke="#3fb950" stroke-width="2.5"/>
-<text x="739" y="315" class="grn">
-<tspan x="739" y="315">     . </tspan>
-<tspan x="739" y="335">   /|\ </tspan>
-<tspan x="739" y="355"> / | \ </tspan>
-<tspan x="739" y="375">(  |  )</tspan>
-<tspan x="739" y="395"> \ | / </tspan>
-<tspan x="739" y="415">   \|/ </tspan>
-<tspan x="739" y="435">    |  </tspan>
-</text>
+<circle cx="586" cy="340" r="52" fill="none" stroke="#ffa657" stroke-width="2.5"/>
+<path d="M 576.8,310.5 C 572.2,317.4 581.4,319.7 576.8,326.6" fill="none" stroke="#ffa657" stroke-width="2" stroke-linecap="round"/>
+<path d="M 586.0,307.1 C 581.4,313.9 590.6,316.2 586.0,323.1" fill="none" stroke="#ffa657" stroke-width="2" stroke-linecap="round"/>
+<path d="M 595.2,310.5 C 590.6,317.4 599.8,319.7 595.2,326.6" fill="none" stroke="#ffa657" stroke-width="2" stroke-linecap="round"/>
+<path d="M 565.3,331.2 L 568.8,362.2 Q 568.8,368.0 574.5,368.0 L 597.5,368.0 Q 603.2,368.0 603.2,362.2 L 606.7,331.2 Z" fill="none" stroke="#ffa657" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M 603.2,338.1 Q 620.5,340.4 614.8,353.1 Q 611.3,357.6 602.1,356.5" fill="none" stroke="#ffa657" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M 561.9,372.6 L 610.1,372.6" stroke="#ffa657" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="736" cy="340" r="52" fill="none" stroke="#3fb950" stroke-width="2.5"/>
+<path d="M 736.0,306.8 C 754.0,322.4 752.8,353.6 736.0,369.2 C 719.2,353.6 718.0,322.4 736.0,306.8 Z" fill="#3fb950" fill-opacity="0.15" stroke="#3fb950" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M 736.0,311.6 L 736.0,365.6" stroke="#3fb950" stroke-width="2" stroke-linecap="round"/>
+<path d="M 736.0,327.2 L 746.8,318.8" stroke="#3fb950" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 736.0,341.6 L 725.2,334.4" stroke="#3fb950" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 736.0,353.6 L 745.6,346.4" stroke="#3fb950" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 736.0,369.2 L 736.0,377.6" stroke="#3fb950" stroke-width="2" stroke-linecap="round"/>
 </svg>
