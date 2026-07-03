@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="985px" height="470px" font-size="16px">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
-.key {fill: #953800;} .value {fill: #0550ae;} .cc {fill: #a5a5a5;} text, tspan {white-space: pre;}
+.key {fill: #953800;} .value {fill: #0550ae;} .cc {fill: #a5a5a5;} .grn {fill: #1a7f37;} .liq {fill: #953800;} text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="470px" fill="#ffffff" rx="15"/>
 <text x="25" y="41" fill="#24292f">
@@ -28,21 +28,26 @@
 <tspan x="25" y="421">       ,c%#8e###########%x^</tspan>
 <tspan x="25" y="441">         `^=xe8####8enr^`</tspan>
 </text>
-<text x="380" y="101" fill="#24292f">
-<tspan x="380" y="101">saverio@mandarano</tspan> ----------------------------------
-<tspan x="380" y="121" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Jr. Full-Stack Web Developer</tspan>
-<tspan x="380" y="141" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Boolean - Tech Academy</tspan>
-<tspan x="380" y="161" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Rome, Italy</tspan>
-<tspan x="380" y="181" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Backend Development</tspan>
-<tspan x="380" y="201" class="cc">. </tspan>
-<tspan x="380" y="221" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Java, JavaScript</tspan>
-<tspan x="380" y="241" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">HTML, CSS, Bootstrap</tspan>
-<tspan x="380" y="261" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Spring, React</tspan>
-<tspan x="380" y="281" class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">MySQL, Hibernate, Maven, Git</tspan>
-<tspan x="380" y="301" class="cc">. </tspan>
-<tspan x="380" y="321">- Contact</tspan> ----------------------------------
-<tspan x="380" y="341" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">saverio.mandarano1@gmail.com</tspan>
-<tspan x="380" y="361" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">github.com/saverio-mandarano</tspan>
-<tspan x="380" y="381" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">saverio-mandarano-7196543ba</tspan>
+<text x="380" y="31" fill="#24292f">
+<tspan x="380" y="31">saverio@mandarano</tspan> ----------------------------------
+<tspan x="380" y="51" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Jr. Full-Stack Web Developer</tspan>
+<tspan x="380" y="71" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Boolean - Tech Academy</tspan>
+<tspan x="380" y="91" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Rome, Italy</tspan>
+<tspan x="380" y="111" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Backend Development</tspan>
+<tspan x="380" y="131" class="cc">. </tspan>
+<tspan x="380" y="151" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc">   </tspan><tspan class="value">Java, JavaScript</tspan>
+<tspan x="380" y="171" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">HTML, CSS, Bootstrap</tspan>
+<tspan x="380" y="191" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Spring, React</tspan>
+<tspan x="380" y="211" class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">MySQL, Hibernate, Maven, Git</tspan>
+<tspan x="380" y="271" class="cc">          ) )  )</tspan>
+<tspan x="380" y="291" class="cc">         ( (  (</tspan>
+<tspan x="380" y="311">      .------------.</tspan>
+<tspan x="380" y="331" class="liq">      |~~~~~~~~~~~~|__</tspan>
+<tspan x="380" y="351">      |            |  |</tspan>
+<tspan x="380" y="371">      |            |  |</tspan>
+<tspan x="380" y="391">      |            |__|</tspan>
+<tspan x="380" y="411">      |            |</tspan>
+<tspan x="380" y="431">      '------------'</tspan>
+<tspan x="380" y="451" class="grn">      // powered by coffee</tspan>
 </text>
 </svg>
