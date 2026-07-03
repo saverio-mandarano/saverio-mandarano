@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
+.key {fill: #ffa657;} .value {fill: #a5d6ff;} .cc {fill: #616e7f;} text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="30"></tspan>
+<tspan x="15" y="50"></tspan>
+<tspan x="15" y="70"></tspan>
+<tspan x="15" y="90">                  .''`</tspan>
+<tspan x="15" y="110">               .^=rcc=i</tspan>
+<tspan x="15" y="130">               .!=vv===,</tspan>
+<tspan x="15" y="150">               '!+~=cvr~+</tspan>
+<tspan x="15" y="170">              .^~c+ccxri^</tspan>
+<tspan x="15" y="190">               `"c=vvx+.</tspan>
+<tspan x="15" y="210">                 :ir+i=",'</tspan>
+<tspan x="15" y="230">                 ,;i=vuu%%zci;`</tspan>
+<tspan x="15" y="250">              '~uerrz########8euzi</tspan>
+<tspan x="15" y="270">            ^xw##8ece#############~</tspan>
+<tspan x="15" y="290">           v888##8#8##############8'</tspan>
+<tspan x="15" y="310">          ;%8#8####################~</tspan>
+<tspan x="15" y="330">          v8##8####################z</tspan>
+<tspan x="15" y="350">         .u#8888###################w</tspan>
+<tspan x="15" y="370">         ^%%#8%%###################w</tspan>
+<tspan x="15" y="390">         +#%##ee###################e</tspan>
+<tspan x="15" y="410">         x8###8e8##################u</tspan>
+<tspan x="15" y="430">         w#####%8##################r</tspan>
+<tspan x="15" y="450">         w####ux###################;</tspan>
+<tspan x="15" y="470">        .z####un################8v:</tspan>
+<tspan x="15" y="490">          !z%#e%#############%zi`</tspan>
+<tspan x="15" y="510">            `"+vw%######%wx="`</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">saverio@mandarano</tspan> -------------------------------------------------
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Junior Full-Stack Web Developer</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Boolean Tech Academy</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Rome, Italy</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Backend Development (Java / Spring)</tspan>
+<tspan x="390" y="130" class="cc">. </tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Java, JavaScript, SQL</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">HTML, CSS</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Spring Boot, Spring Security, React</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">MySQL, Hibernate, Maven, Git</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250">- Featured Project</tspan> -------------------------------------------------
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Asset Manager</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Full-stack financial asset manager</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Stack</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Spring Boot . Spring Security . REST API . React</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Details</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">JPA/Hibernate on MySQL, ADMIN/USER roles</tspan>
+<tspan x="390" y="330" class="cc">. </tspan>
+<tspan x="390" y="350">- Contact</tspan> -------------------------------------------------
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">saverio.mandarano1@gmail.com</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">github.com/your-username</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">your-profile</tspan>
+</text>
+</svg>
