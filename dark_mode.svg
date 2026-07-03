@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="985px" height="470px" font-size="16px">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
-.key {fill: #ffa657;} .value {fill: #a5d6ff;} .cc {fill: #616e7f;} .grn {fill: #3fb950;} .liq {fill: #ffa657;} text, tspan {white-space: pre;}
+.key {fill: #ffa657;} .value {fill: #a5d6ff;} .cc {fill: #616e7f;} .grn {fill: #3fb950;} .jav {fill: #ffa657;} text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="470px" fill="#161b22" rx="15"/>
 <text x="25" y="41" fill="#c9d1d9">
@@ -35,19 +35,32 @@
 <tspan x="380" y="91" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Rome, Italy</tspan>
 <tspan x="380" y="111" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Backend Development</tspan>
 <tspan x="380" y="131" class="cc">. </tspan>
-<tspan x="380" y="151" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc">   </tspan><tspan class="value">Java, JavaScript</tspan>
+<tspan x="380" y="151" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc">  </tspan><tspan class="value">Java, JavaScript</tspan>
 <tspan x="380" y="171" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">HTML, CSS, Bootstrap</tspan>
 <tspan x="380" y="191" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Spring, React</tspan>
 <tspan x="380" y="211" class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">MySQL, Hibernate, Maven, Git</tspan>
-<tspan x="380" y="271" class="cc">          ) )  )</tspan>
-<tspan x="380" y="291" class="cc">         ( (  (</tspan>
-<tspan x="380" y="311">      .------------.</tspan>
-<tspan x="380" y="331" class="liq">      |~~~~~~~~~~~~|__</tspan>
-<tspan x="380" y="351">      |            |  |</tspan>
-<tspan x="380" y="371">      |            |  |</tspan>
-<tspan x="380" y="391">      |            |__|</tspan>
-<tspan x="380" y="411">      |            |</tspan>
-<tspan x="380" y="431">      '------------'</tspan>
-<tspan x="380" y="451" class="grn">      // powered by coffee</tspan>
+<tspan x="380" y="231">----------------------------------------------------</tspan>
+</text>
+<text x="395" y="291">
+<tspan x="395" y="291" class="cc">    ) )  )</tspan>
+<tspan x="395" y="311" class="cc">   ( (  (</tspan>
+<tspan x="395" y="331" class="jav">  .--------.</tspan>
+<tspan x="395" y="351" class="jav">  |        |__</tspan>
+<tspan x="395" y="371" class="jav">  |        |  |</tspan>
+<tspan x="395" y="391" class="jav">  |        |__|</tspan>
+<tspan x="395" y="411" class="jav">  |        |</tspan>
+<tspan x="395" y="431" class="jav">  '--------'</tspan>
+<tspan x="395" y="451" class="jav">   \______/</tspan>
+</text>
+<text x="610" y="291">
+<tspan x="610" y="291" class="grn">      .</tspan>
+<tspan x="610" y="311" class="grn">     /|\</tspan>
+<tspan x="610" y="331" class="grn">    / | \</tspan>
+<tspan x="610" y="351" class="grn">   /  |  \</tspan>
+<tspan x="610" y="371" class="grn">  (   |   )</tspan>
+<tspan x="610" y="391" class="grn">   \  |  /</tspan>
+<tspan x="610" y="411" class="grn">    \ | /</tspan>
+<tspan x="610" y="431" class="grn">     \|/</tspan>
+<tspan x="610" y="451" class="grn">      |</tspan>
 </text>
 </svg>
